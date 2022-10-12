@@ -1,0 +1,9 @@
+# dependencies
+.DS_Store
+/.idea
+/build
+/node_modules
+/app/main/.idea
+/app/footer/.idea
+/app/main/node_modules
+/app/footer/node_modules

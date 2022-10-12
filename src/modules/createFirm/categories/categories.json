@@ -1,0 +1,120 @@
+[
+  {
+    "name": "services",
+    "subcategories": [
+      "complex-repair",
+      "plumbing-works",
+      "electrical-installation-works",
+      "facade-works",
+      "roofing-works",
+      "finishing-works",
+      "laying-of-floor-coverings",
+      "interior-design",
+      "construction-of-buildings-and-structures",
+      "construction-of-baths-and-saunas",
+      "foundation-works",
+      "installation-and-construction-of-swimming-pools",
+      "landscaping-works"
+    ],
+    "img": "https://store-images.s-microsoft.com/image/apps.63294.13510798882805719.de8abe35-3371-47a6-b2bf-11c9873adeea.f9ef3275-f968-4a38-b7d2-d2194807c00c?mode=scale&q=90&h=300&w=300"
+  },
+  {
+    "name": "tools-and-equipment",
+    "subcategories": [
+      "construction-tool",
+      "construction-machinery-and-equipment",
+      "plastering-and-painting-tools",
+      "carpentry-and-locksmith-tools-and-equipment",
+      "work-wear"
+    ],
+    "img": "https://store-images.s-microsoft.com/image/apps.63294.13510798882805719.de8abe35-3371-47a6-b2bf-11c9873adeea.f9ef3275-f968-4a38-b7d2-d2194807c00c?mode=scale&q=90&h=300&w=300"
+  },
+  {
+    "name": "repair-and-finishing",
+    "subcategories": [
+      "windows",
+      "doors",
+      "paint-and-varnish-materials",
+      "floor-coverings",
+      "plumbing",
+      "tiles",
+      "ceilings",
+      "lighting",
+      "home-textiles",
+      "interior-items",
+      "sun-protection-systems"
+    ],
+    "img": "https://store-images.s-microsoft.com/image/apps.63294.13510798882805719.de8abe35-3371-47a6-b2bf-11c9873adeea.f9ef3275-f968-4a38-b7d2-d2194807c00c?mode=scale&q=90&h=300&w=300"
+  },
+  {
+    "name": "everything-for-construction",
+    "subcategories": [
+      "wall-building-materials",
+      "facade-materials",
+      "roofing-materials",
+      "insulation",
+      "heating",
+      "water-supply-and-pipeline",
+      "sewerage",
+      "lumber",
+      "wood-slab-materials",
+      "dry-building-mixes",
+      "concrete",
+      "bulk-materials",
+      "reinforced-concrete-products"
+    ],
+    "img": "https://store-images.s-microsoft.com/image/apps.63294.13510798882805719.de8abe35-3371-47a6-b2bf-11c9873adeea.f9ef3275-f968-4a38-b7d2-d2194807c00c?mode=scale&q=90&h=300&w=300"
+  },
+  {
+    "name": "everything-for-the-cottage-and-garden",
+    "subcategories": [
+      "garden-tool",
+      "garden-furniture",
+      "garden-equipment",
+      "gates",
+      "fences",
+      "roller-shutters",
+      "everything-for-gardening",
+      "everything-for-the-improvement-of-he-territory",
+      "everything-for-the-bath"
+    ],
+    "img": "https://store-images.s-microsoft.com/image/apps.63294.13510798882805719.de8abe35-3371-47a6-b2bf-11c9873adeea.f9ef3275-f968-4a38-b7d2-d2194807c00c?mode=scale&q=90&h=300&w=300"
+  },
+  {
+    "name": "furniture",
+    "subcategories": [
+      "upholstered-furniture",
+      "cabinet-furniture",
+      "kitchen-furniture",
+      "bedroom-furniture",
+      "children's-furniture",
+      "chairs-and-armchairs",
+      "tables",
+      "office-furniture",
+      "specialized-furniture"
+    ],
+    "img": "https://store-images.s-microsoft.com/image/apps.63294.13510798882805719.de8abe35-3371-47a6-b2bf-11c9873adeea.f9ef3275-f968-4a38-b7d2-d2194807c00c?mode=scale&q=90&h=300&w=300"
+  },
+  {
+    "name": "home-appliances",
+    "subcategories": [
+      "large-household-appliances",
+      "kitchen-appliances",
+      "dishes",
+      "exercise-equipment",
+      "audio-and-video-equipment",
+      "water-purification"
+    ],
+    "img": "https://store-images.s-microsoft.com/image/apps.63294.13510798882805719.de8abe35-3371-47a6-b2bf-11c9873adeea.f9ef3275-f968-4a38-b7d2-d2194807c00c?mode=scale&q=90&h=300&w=300"
+  },
+  {
+    "name": "transportation",
+    "subcategories": [
+      "apartment-relocation",
+      "office-relocation",
+      "transportation-in-the-city",
+      "cargo-transportation-in-belarus"
+    ],
+    "img": "https://store-images.s-microsoft.com/image/apps.63294.13510798882805719.de8abe35-3371-47a6-b2bf-11c9873adeea.f9ef3275-f968-4a38-b7d2-d2194807c00c?mode=scale&q=90&h=300&w=300"
+  }
+]
